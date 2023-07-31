@@ -1,22 +1,10 @@
-# Yolov5 + Deep Sort with PyTorch
+# Yolov5 + Deep Sort with PyTorch + heatmap
 
 
 
 
 
-<div align="center">
-<p>
-<img src="MOT16_eval/track_pedestrians.gif" width="400"/> <img src="MOT16_eval/track_all.gif" width="400"/> 
-</p>
-<br>
-<div>
-<a href="https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch/actions"><img src="https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
-<br>  
-<a href="https://colab.research.google.com/drive/18nIqkBr68TkK8dHdarxTco6svHUJGggY?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
- 
-</div>
 
-</div>
 
 
 ## Introduction
