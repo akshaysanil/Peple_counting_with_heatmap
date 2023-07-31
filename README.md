@@ -96,7 +96,7 @@ $ python track.py --source 0 --deep_sort_model osnet_x1_0
 
 By default the tracker tracks all MS COCO classes.
 
-If you only want to track persons I recommend you to get, crowdhuman weidht file [these weights](https://drive.google.com/file/d/1gglIwqxaH2iTvy6lZlXuAcMpd_U0GCUb/view?usp=sharing) for increased performance
+If you only want to track persons I recommend you to get, crowdhuman weight file [these weights](https://drive.google.com/file/d/1gglIwqxaH2iTvy6lZlXuAcMpd_U0GCUb/view?usp=sharing) for increased performance
 
 ```bash
 python3 track.py --source 0 --yolo_model yolov5/weights/crowdhuman_yolov5m.pt --classes 0  # tracks persons, only
